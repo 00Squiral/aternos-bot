@@ -1,0 +1,14 @@
+{
+  "name": "aternos-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Aternos server checker",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "node-fetch": "^2.7.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
